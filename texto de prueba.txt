@@ -8,8 +8,4 @@ Esta es la parte final del recibo de texto de prueba
 
 Aprendiendo cada vez más
 
-<<<<<<< HEAD
-ultima version
-=======
-ultima version. tus nalgas
->>>>>>> af0aeda67def3bc645302ac1848da903dfbb7ef7
+correccion
