@@ -15,3 +15,5 @@ correccion de github
 prueba de llaves
 
 prueba de local a nube
+
+texto creado para ver si me acuerdo como guardar
