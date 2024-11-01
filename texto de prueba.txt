@@ -7,3 +7,5 @@ prueba de enviar beta desde github a la pc
 enviar a rama master
 
 enviar edicionde todas las ramas
+
+master 1
