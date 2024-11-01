@@ -18,3 +18,5 @@ master 2
 
 master 3
 beta 1
+beta 2
+beta 1
